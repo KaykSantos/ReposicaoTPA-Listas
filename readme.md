@@ -21,3 +21,8 @@
     Sort – Ordena os elementos da lista 
 
     Count - Determina quantos elementos uma lista possui
+
+## Referências
+    using System;
+    using System.Collections;   
+    using System.Collections.Generic;
