@@ -8,8 +8,6 @@
 ## Métodos
     Add – Adiciona um elemento ao final da lista
 
-    AddRange – Adiciona elementos de uma coleção especificada ao final da lista
-
     Clear – Remove todos os elementos de uma lista
 
     Contains – Verifica se um elemento especificado existe ou não em uma lista
